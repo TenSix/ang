@@ -1,0 +1,3 @@
+setting  
+	-- format on save  £¾
+	-- single quote    Quote Style->single 
