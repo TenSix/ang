@@ -1,3 +1,33 @@
 setting  
 	-- format on save  £¾
 	-- single quote    Quote Style->single 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MVVM http://www.syscom.com.tw/ePaper_New_Content.aspx?id=498&EPID=219&TableName=sgEPArticle
+     https://laravel-china.org/
